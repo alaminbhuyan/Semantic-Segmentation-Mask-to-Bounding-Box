@@ -1,13 +1,12 @@
 # Semantic-Segmentation-Mask-to-Bounding-Box
 This repository contains the code for extracting bounding box coordinates from a binary segmentation mask.
 <br/><br/>
-Youtube Video: [https://youtu.be/RmLDL7AVXUc](https://youtu.be/RmLDL7AVXUc)
 
 ## Dataset
 Download the Kavsir-SEG from here: [https://datasets.simula.no/kvasir-seg/](https://datasets.simula.no/kvasir-seg/)
 
 ## Results
-The images with the bounding box coordinates plotted on the image along with the binary mask.
+The images with the bounding box coordinates are plotted on the image along with the binary mask.
 
 | ![](results/cju0qkwl35piu0993l0dewei2.png) |
 | :--: |
@@ -17,6 +16,5 @@ The images with the bounding box coordinates plotted on the image along with the
 
 ## Contact
 For any query contact below:
-- [Facebook](https://www.facebook.com/idiotdeveloper)
-- [Instagram](https://www.instagram.com/nikhilroxtomar/)
-- [Telegram](https://t.me/idiotdeveloper)
+- [Facebook]([https://www.facebook.com/idiotdeveloper](https://www.facebook.com/profile.php?id=100009744019287))
+- [Instagram](https://www.instagram.com/alaminbhuyan129/)
