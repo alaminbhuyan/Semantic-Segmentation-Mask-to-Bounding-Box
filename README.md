@@ -16,5 +16,5 @@ The images with the bounding box coordinates are plotted on the image along with
 
 ## Contact
 For any query contact below:
-- [Facebook]([https://www.facebook.com/idiotdeveloper](https://www.facebook.com/profile.php?id=100009744019287))
+- [Facebook](https://www.facebook.com/profile.php?id=100009744019287)
 - [Instagram](https://www.instagram.com/alaminbhuyan129/)
